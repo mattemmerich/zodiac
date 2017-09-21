@@ -13,7 +13,7 @@ traits:"Their ruling planet is Neptune, so Pisces are more intuitive\
         to music, so Pisces reveal music preferences in the earliest\
         stages of life. They are generous, compassionate and extremely\
         faithful and caring.",
-zodiacImage:"images/pisces.jpg"
+zodiacImage:"images/pisces.png"
 },
 
 {
@@ -24,7 +24,7 @@ traits:"Enterprising, Incisive, Spontaneous, Daring, Active, Courageous\
         and Energetic, the Aries are the proverbial infants, guileless and optimistic\
         to the fault. However, they also are impatient, impetuous, vain, proud and\
         egoistic.",
-zodiacImage:"images/aries.jpg"
+zodiacImage:"images/aries.png"
 },
 
 {
@@ -36,7 +36,7 @@ traits:"Known for being reliable, practical, ambitious and sensual, the people\
         be good with finances, and hence, make efficient financial managers.\
         However, like everyone else, a Taurus also has both positive and negative\
         traits.",
-zodiacImage:"images/taurus.jpg"
+zodiacImage:"images/taurus.png"
 },
 
 {
@@ -47,7 +47,7 @@ traits:"Expressive and quick-witted, Gemini represents two different personaliti
         in one and you will never be sure which one you will face. They are sociable,\
         communicative and ready for fun, with a tendency to suddenly get serious,\
         thoughtful and restless.",
-zodiacImage:"images/gemeni.jpg"
+zodiacImage:"images/gemeni.png"
 },
 
 {
@@ -58,7 +58,7 @@ traits:"Deeply intuitive and sentimental, Cancer can be one of the most challeng
         zodiac signs to get to know. They are very emotional and sensitive, and\
         care deeply about matters of the family and their home. Cancer is sympathetic\
         and attached to people they keep close.",
-zodiacImage:"images/cancer.jpg"
+zodiacImage:"images/cancer.png"
 },
 
 {
@@ -69,7 +69,7 @@ traits:" Warm, action-oriented and driven by the desire to be loved and admired,
          the Leo have an air royalty about them. They love to be in the limelight,\
          which is why many of them make a career in the performing arts. The\
          personality of a Leo is made up of some positive as well as negative traits.",
-zodiacImage:"images/leo.jpg"
+zodiacImage:"images/leo.png"
 },
 
 {
@@ -80,7 +80,7 @@ traits:"Astrologers ascribe certain personality traits to a person born under th
         Virgo: people born under this sign are typically analytical, kind, hardworking\
         and practical. According to astrologers, Virgos tend to worry often; they\
         are shy and dislike being the center of attention.",
-zodiacImage:"images/virgo.jpg"
+zodiacImage:"images/virgo.png"
 },
 
 {
@@ -91,7 +91,7 @@ traits:"The people born under the Sign Libra are kind, gentle and lovers of beau
         harmony and peace. However, in their effort to keep everyone happy, they find\
         it difficult to say 'NO' to anyone, and as a result, they end up getting\
         stressed. They have a lot of positive traits, but some negative ones, too.",
-zodiacImage:"images/libra.jpg"
+zodiacImage:"images/libra.png"
 },
 
 {
@@ -101,7 +101,7 @@ zodiacSymbol:"Scorpion",
 traits:"The Scorpio-born are strong willed and mysterious, and they know how to\
         effortlessly grab the limelight, as they possess what it takes to achieve\
         their goals. They have a magnetic charm that can't be ignored.",
-zodiacImage:"images/scorpio.jpg"
+zodiacImage:"images/scorpio.png"
 },
 
 {
@@ -113,7 +113,7 @@ traits:"Some of the best Sagittarius traits are his frankness, courage, and opti
         is to share in his quest, appreciate his wisdom and respect his opinions.\
         Some of the negative Sagittarius characteristics include his carelessness\
         and impatience.",
-zodiacImage:"images/sagittarius.jpg"
+zodiacImage:"images/sagittarius.png"
 },
 
 {
@@ -123,7 +123,7 @@ zodiacSymbol:"Goat",
 traits:"The Capricorn-born people are the most determined of the entire Zodiac.\
         The most prominent qualities of the Goats, as they are called, are that\
         they are ambitious, conservative, determined, practical and helpful.",
-zodiacImage:"images/capricorn.jpg"
+zodiacImage:"images/capricorn.png"
 },
 
 {
@@ -134,7 +134,7 @@ traits:"Truthfulness, Just, Curious, Affectionate Personality, Frank and Imagina
         Negative Qualities of Aquarius : Unpredictable, Detachment, Tendency to\
         go off-track, and Inefficiency. Possible Health Concerns: The Aquarius-born\
         people must be very careful of any kind of addiction.",
-zodiacImage:"images/aquarius.jpg"
+zodiacImage:"images/aquarius.png"
 }
 ];
 
