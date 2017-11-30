@@ -130,10 +130,7 @@ zodiacImage:"images/capricorn.png"
 zodiacSign:"aquarius",
 birthdayRange:"January 20th - Febraury 18th",
 zodiacSymbol:"Water Bearer",
-traits:"Truthfulness, Just, Curious, Affectionate Personality, Frank and Imaginative.\
-        Negative Qualities of Aquarius : Unpredictable, Detachment, Tendency to\
-        go off-track, and Inefficiency. Possible Health Concerns: The Aquarius-born\
-        people must be very careful of any kind of addiction.",
+traits:"The most 'electrifying' sign. Aquarius rules shock and electricity, come across them the wrong way and they'll electrocute you. Overall, a great sign. Humanitarian, friendly, super intelligent, and oh boy unpredictable! You can never guess what an Aquarian will do next ... But be prepared to get shocked.",
 zodiacImage:"images/aquarius.png"
 }
 ];
@@ -148,6 +145,9 @@ document.getElementById("yourSign");
 
 var dateRange =
 document.getElementById("dateRange");
+
+var wrong=
+document.getElementById("wrong");
 
 var zodiacSymbol =
 document.getElementById("zodiacSymbol");
@@ -166,12 +166,18 @@ function signCheck() {
     //for loop to run through zodiac array
     for(i = 0; i < zodiac.length; i++) {
       if(userInput == zodiac[i].zodiacSign){
+
         yourSign.innerHTML = zodiac[i].zodiacSign;
         dateRange.innerHTML = zodiac[i].birthdayRange;
         zodiacSymbol.innerHTML = zodiac[i].zodiacSymbol;
         zodiacImage.src = zodiac[i].zodiacImage;
         traits.innerHTML = zodiac[i].traits;
+        wrong.innerHTML = "";
+        return;
 
+      }
+      else{
+        wrong.innerHTML = "you are wrong";
 
       }
   }

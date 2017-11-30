@@ -8,9 +8,15 @@ body {
 }
 
 .form {
-	background-color: #2d2d2d;
+	/*background-color: #2d2d2d;*/
 	width: 100%;
   margin: auto;
+	text-align: center;
+	background-image: url('https://media.giphy.com/media/9bTjZrytydVRK/giphy.gif');
+  background-repeat: no-repeat;
+	background-position: center;
+
+	 
 }
 
 h1 {
@@ -52,10 +58,12 @@ button {
 
 .form-input {
     text-align: center;
+		display: inline-block;
     font-size: 100%;
-    width: 100%;
+    width: 25%;
     font-family: open sans;
     font-style: normal;
+
 }
 
 #zodiacImage {
